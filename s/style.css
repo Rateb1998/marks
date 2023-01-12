@@ -34,6 +34,14 @@ button {
 	border: none;
 	cursor: pointer;
 }
+h1 {
+	background-color: #4ca7af;
+	color: white;
+	padding: 14px 20px;
+	margin-bottom: 20px;
+	border: none;
+	cursor: pointer;
+}
 
 #result {
 	margin: 50px auto;
